@@ -52,7 +52,7 @@ private:
 };
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
     Graph graph;
     graph.buildGraph(9,8);
     graph.dfs(0);
