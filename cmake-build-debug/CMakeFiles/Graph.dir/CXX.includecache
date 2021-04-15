@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vperv/CLionProjects/Graph/main.cpp
+iostream
+-
+vector
+C:/Users/vperv/CLionProjects/Graph/vector
+queue
+C:/Users/vperv/CLionProjects/Graph/queue
+
